@@ -1,26 +1,20 @@
 # Default Projects
 
-This repository contains the default collection of projects and serves as the main index for all repositories.
+Default projects
 
 ## Project List
 
 <!-- 自动生成的项目列表将在此处更新 -->
-
-## Recently Added
-
-<!-- 最近添加的项目将显示在此处 -->
 
 ---
 
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
-- **[default](https://github.com/APE-147/default)** - Default category repository index
-  - 创建时间: 2025-07-10T17:48:39.907101
-- **[test-new-default-project](https://github.com/APE-147/test-new-default-project)** - Testing new project auto-categorization to Default
-  - 创建时间: 2025-07-10T08:00:30Z
-- **[test-deepthink-repo](https://github.com/APE-147/test-deepthink-repo)** - Testing repository creation for deepthink analysis
-  - 创建时间: 2025-07-10T07:15:43Z
-- **[9414-Amazon-Temperature](https://github.com/APE-147/9414-Amazon-Temperature)** - 
-  - 创建时间: 2025-07-05T15:54:27Z
+- **[readme-flat](https://github.com/APE-147/readme-flat)**
+  - 创建时间: 2025-07-10
+- **[auto-match-pull](https://github.com/APE-147/auto-match-pull)**
+  - 创建时间: 2025-07-10
+- **[repo-management](https://github.com/APE-147/repo-management)**
+  - 创建时间: 2025-07-10
 <!-- AUTO-GENERATED-CONTENT:END -->
