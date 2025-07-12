@@ -65,11 +65,9 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
-- **[obsidian-tab-switch](https://github.com/APE-147/obsidian-tab-switch)**
+- **[test-path-config-validation](https://github.com/APE-147/test-path-config-validation)** - Test repository to validate new path configuration for repo-manager service
   - 创建时间: 2025-07-12
 - **[test-repo-service-validation](https://github.com/APE-147/test-repo-service-validation)** - Test repository to validate repo-manager service functionality
-  - 创建时间: 2025-07-12
-- **[test-path-config-validation](https://github.com/APE-147/test-path-config-validation)** - Test repository to validate new path configuration for repo-manager service
   - 创建时间: 2025-07-12
 - **[readme-flat](https://github.com/APE-147/readme-flat)**
   - 创建时间: 2025-07-10
