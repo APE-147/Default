@@ -65,8 +65,6 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
-- **[test-repo-service-validation](https://github.com/APE-147/test-repo-service-validation)** - Test repository to validate repo-manager service functionality
-  - 创建时间: 2025-07-12
 - **[readme-flat](https://github.com/APE-147/readme-flat)**
   - 创建时间: 2025-07-10
 - **[auto-match-pull](https://github.com/APE-147/auto-match-pull)**
