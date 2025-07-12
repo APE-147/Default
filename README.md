@@ -65,5 +65,12 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
-<!-- 暂无项目 -->
+- **[readme-flat](https://github.com/APE-147/readme-flat)**
+  - 创建时间: 2025-07-10
+- **[auto-match-pull](https://github.com/APE-147/auto-match-pull)**
+  - 创建时间: 2025-07-10
+- **[repo-management](https://github.com/APE-147/repo-management)**
+  - 创建时间: 2025-07-10
+- **[test-repo-service-validation](https://github.com/APE-147/test-repo-service-validation)** - Test repository to validate repo-manager service functionality
+  - 创建时间: 2025-07-12
 <!-- AUTO-GENERATED-CONTENT:END -->
