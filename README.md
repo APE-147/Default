@@ -67,10 +67,4 @@ flowchart TD
 <!-- AUTO-GENERATED-CONTENT:START -->
 - **[auto-match-pull](https://github.com/APE-147/auto-match-pull)**
   - 创建时间: 2025-07-10
-- **[repo-management](https://github.com/APE-147/repo-management)**
-  - 创建时间: 2025-07-10
-- **[obsidian-tab-switch](https://github.com/APE-147/obsidian-tab-switch)**
-  - 创建时间: 2025-07-12
-- **[readme-flat](https://github.com/APE-147/readme-flat)**
-  - 创建时间: 2025-07-10
 <!-- AUTO-GENERATED-CONTENT:END -->
