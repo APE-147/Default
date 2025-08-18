@@ -8,7 +8,7 @@ Default projects
 我感觉需要有一个结构图串联我的项目
 
 ### GitHub 管理
--`readme-flat`: 本地双向同步 obsidian, 支持双向同步 markdown reeadme 的编辑, 保留自定义 readme 文件的层级结构
+- `readme-flat`: 本地双向同步 obsidian, 支持双向同步 markdown reeadme 的编辑, 保留自定义 readme 文件的层级结构
 - `repo-management`: 一旦有新项目添加至 GitHub, 自动添加链接至 index 项目的 readme, 一旦repo index 的 readme 有变更, 自动push
 
 **整体流程**
@@ -64,5 +64,12 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
-<!-- 暂无项目 -->
+- **[auto-match-pull](https://github.com/APE-147/auto-match-pull)**
+  - 创建时间: 2025-07-10
+- **[obsidian-tab-switch](https://github.com/APE-147/obsidian-tab-switch)**
+  - 创建时间: 2025-07-12
+- **[repo-management](https://github.com/APE-147/repo-management)**
+  - 创建时间: 2025-07-10
+- **[readme-flat](https://github.com/APE-147/readme-flat)**
+  - 创建时间: 2025-07-10
 <!-- AUTO-GENERATED-CONTENT:END -->
