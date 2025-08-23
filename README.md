@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[timing-entries-sync](https://github.com/APE-147/timing-entries-sync)** - A modern Python CLI tool for synchronizing Timing app entries with Google Calendar
+  - 创建时间: 2025-08-23
 - **[auto-match-pull](https://github.com/APE-147/auto-match-pull)**
   - 创建时间: 2025-07-10
 - **[obsidian-tab-switch](https://github.com/APE-147/obsidian-tab-switch)**
