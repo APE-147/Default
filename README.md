@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[video-downloader](https://github.com/APE-147/video-downloader)**
+  - 创建时间: 2025-09-20
 - **[rss-inbox](https://github.com/APE-147/rss-inbox)**
   - 创建时间: 2025-09-20
 - **[weread2notion](https://github.com/APE-147/weread2notion)** - 将微信读书划线同步到Notion
