@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[singlefile-archiver](https://github.com/APE-147/singlefile-archiver)** - A Python tool for automated SingleFile web archiving with Docker integration and CLI interface
+  - 创建时间: 2025-09-20
 - **[video-downloader](https://github.com/APE-147/video-downloader)**
   - 创建时间: 2025-09-20
 - **[rss-inbox](https://github.com/APE-147/rss-inbox)**
