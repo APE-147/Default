@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[rss-inbox](https://github.com/APE-147/rss-inbox)**
+  - 创建时间: 2025-09-20
 - **[weread2notion](https://github.com/APE-147/weread2notion)** - 将微信读书划线同步到Notion
   - 创建时间: 2025-09-18
 - **[timing-entries-sync](https://github.com/APE-147/timing-entries-sync)** - A modern Python CLI tool for synchronizing Timing app entries with Google Calendar
