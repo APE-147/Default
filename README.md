@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[readwise-sync](https://github.com/APE-147/readwise-sync)**
+  - 创建时间: 2025-10-01
 - **[openvpn-cross](https://github.com/APE-147/openvpn-cross)**
   - 创建时间: 2025-09-29
 - **[yolo](https://github.com/APE-147/yolo)**
