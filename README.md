@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[agent-cli](https://github.com/APE-147/agent-cli)**
+  - 创建时间: 2025-10-02
 - **[Test](https://github.com/APE-147/Test)**
   - 创建时间: 2025-10-02
 - **[readwise-sync](https://github.com/APE-147/readwise-sync)**
