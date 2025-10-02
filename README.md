@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[todo-event-database](https://github.com/APE-147/todo-event-database)**
+  - 创建时间: 2025-10-02
 - **[agent-cli](https://github.com/APE-147/agent-cli)**
   - 创建时间: 2025-10-02
 - **[Test](https://github.com/APE-147/Test)**
