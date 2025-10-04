@@ -64,6 +64,8 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
+- **[obsidian_sync](https://github.com/APE-147/obsidian_sync)**
+  - 创建时间: 2025-10-04
 - **[todo-event-database](https://github.com/APE-147/todo-event-database)**
   - 创建时间: 2025-10-02
 - **[agent-cli](https://github.com/APE-147/agent-cli)**
