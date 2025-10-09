@@ -64,8 +64,6 @@ flowchart TD
 *This file is automatically maintained by the repo-management system.*
 
 <!-- AUTO-GENERATED-CONTENT:START -->
-- **[readwise-inbox](https://github.com/APE-147/readwise-inbox)**
-  - 创建时间: 2025-10-07
 - **[reminder_sync](https://github.com/APE-147/reminder_sync)**
   - 创建时间: 2025-10-04
 - **[notion_sync](https://github.com/APE-147/notion_sync)**
